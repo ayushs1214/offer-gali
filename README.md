@@ -6,7 +6,7 @@ A RESTful API for aggregating and managing deals across multiple retailers.
 
 1. Clone the repository:
     ```bash
-    git clone <repository_url>
+    git clone [<repository_url>](https://github.com/ayushs1214/offer-gali.git)
     ```
 2. Navigate to the project directory:
     ```bash
